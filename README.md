@@ -1,59 +1,84 @@
 # Plant Care Hub
 
-**Plant Care Hub** is a React Native app that helps users **identify plants**, **detect plant diseases**, and **buy or sell plants**. It also provides care guides, reminders, and chat support for plant enthusiasts.
+**Plant Care Hub** is a React Native app for **plant identification, disease detection, buying/selling plants**, care guides, and reminders.
 
 ---
 
 ## 📱 App Screenshots
 
-### 1. Welcome Screen
-![WelcomeScreen](./assets/WelcomeScreen.jpg)
+<table>
+<tr>
+  <td align="center">
+    <img src="./assets/WelcomeScreen.jpg" width="400"/><br>
+    <b>Welcome Screen</b>
+  </td>
+  <td align="center">
+    <img src="./assets/LoginScreen.jpg" width="400"/><br>
+    <b>Login Screen</b>
+  </td>
+</tr>
 
-### 2. Login Screen
-![LoginScreen](./assets/LoginScreen.jpg)
+<tr>
+  <td align="center">
+    <img src="./assets/Dashboardscreen1.jpg" width="400"/><br>
+    <b>Dashboard</b>
+  </td>
+  <td align="center">
+    <img src="./assets/PlantDetectionscreen.jpg" width="400"/><br>
+    <b>Plant Detection Screen</b>
+  </td>
+</tr>
 
-### 3. Dashboard
-![Dashboardscreen1](./assets/Dashboardscreen1.jpg)
+<tr>
+  <td align="center">
+    <img src="./assets/Anaysisdisease.jpg" width="400"/><br>
+    <b>Disease Analysis</b>
+  </td>
+  <td align="center">
+    <img src="./assets/CareGuidedisease.jpg" width="400"/><br>
+    <b>Care Guide for Disease</b>
+  </td>
+</tr>
 
-### 4. Plant Detection Screen
-![PlantDetectionscreen](./assets/PlantDetectionscreen.jpg)
+<tr>
+  <td align="center">
+    <img src="./assets/CareGuidePlantIdentify.jpg" width="400"/><br>
+    <b>Care Guide for Plant Identification</b>
+  </td>
+  <td align="center">
+    <img src="./assets/Plantsell and add.jpg" width="400"/><br>
+    <b>Plant Sell & Add Product</b>
+  </td>
+</tr>
 
-### 5. Disease Analysis
-![Anaysisdisease](./assets/Anaysisdisease.jpg)
+<tr>
+  <td align="center">
+    <img src="./assets/generalchat.jpg" width="400"/><br>
+    <b>General Chat</b>
+  </td>
+  <td align="center">
+    <img src="./assets/reminderNotification.jpg" width="400"/><br>
+    <b>Reminder Notification</b>
+  </td>
+</tr>
 
-### 6. Care Guide for Disease
-![CareGuidedisease](./assets/CareGuidedisease.jpg)
-
-### 7. Care Guide for Plant Identification
-![CareGuidePlantIdentify](./assets/CareGuidePlantIdentify.jpg)
-
-### 8. Plant Sell & Add Product
-![Plantsell and add](./assets/Plantsell and add.jpg)
-
-### 9. General Chat Screen
-![generalchat](./assets/generalchat.jpg)
-
-### 10. Reminder Notification
-![reminderNotification](./assets/reminderNotification.jpg)
-
-### 11. Reminder for Fertilizer or Water
-![remindertofetilizaeror water given](./assets/remindertofetilizaeror water given.jpg)
+<tr>
+  <td align="center">
+    <img src="./assets/remindertofetilizaeror water given.jpg" width="400"/><br>
+    <b>Reminder for Fertilizer/Water</b>
+  </td>
+  <td></td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ Features
-- **AI Plant & Disease Detection**: Identify plants and detect diseases instantly.
-- **Care Guides**: Step-by-step instructions to care for plants and treat diseases.
-- **Marketplace**: Buy and sell plants, seeds, and gardening products.
-- **Reminders**: Schedule watering, fertilizing, or other plant care tasks.
-- **Chat Support**: Communicate with experts and other users.
-
----
-
-## 🛠️ Tech Stack
-- **React Native**  
-- **Firebase** (Authentication, Database)  
-- **Expo**  
+- AI Plant & Disease Detection  
+- Care Guides & Tips  
+- Marketplace to Buy/Sell Plants  
+- Reminders for Watering & Fertilizer  
+- Chat Support
 
 ---
 
